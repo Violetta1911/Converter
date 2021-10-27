@@ -1,0 +1,22 @@
+.convform {
+    width: 500px;
+    background-color: #fff;
+    padding: 40px 40px;
+    border-radius: 20px;
+}
+
+.select-items {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.select-item {
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+
+}
+p {
+    font-size: 28px;
+}

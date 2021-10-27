@@ -1,0 +1,20 @@
+
+{ "parameters" : {
+    "distance" : 
+    [
+        {"unit": "m", "value": 1},
+        {"unit": "cm", "value": 100},
+        {"unit": "km", "value": 0.001},
+        {"unit": "in", "value": 39.37},
+        {"unit": "ft", "value": 3.28}
+    ],      
+
+   "weight":
+    [
+    {"unit": "g", "value": 1000},
+    {"unit": "kg", "value": 1},
+    {"unit": "lb", "value": 0.45},
+    {"unit": "ft", "value": 3.28}
+    ]
+}
+}
